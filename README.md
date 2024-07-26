@@ -38,10 +38,10 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-    ```bash
-    git clone https://github.com/yourusername/battle-of-heroes.git
-    cd battle-of-heroes
-    ```
+    
+    - git clone [GitHub Repository - Battle of Heroes](https://github.com/AleksKulagin/hero_cons)
+    - cd battle-of-heroes
+    
 
 2. Запустите игру:
     ```bash
